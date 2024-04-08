@@ -1,0 +1,8 @@
+.row.justify-content-center {
+    text-align: center;
+  }
+    .carousel-item img {
+      max-width: 40%; 
+      display: block;
+      margin: auto; 
+    }
